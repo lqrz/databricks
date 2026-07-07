@@ -5,7 +5,9 @@ Notes, exercises, and materials from the Databricks Academy [Generative AI Engin
 ## Contents
 
 - [`generative_ai_engineering_pathway/`](generative_ai_engineering_pathway) — Generative AI Engineering Pathway coursework
-  - [`building_retrieva_gents_on_databricks/`](generative_ai_engineering_pathway/building_retrieva_gents_on_databricks) — Building Retrieval Agents on Databricks
+  - [`building_retrieval_agents_on_databricks/`](generative_ai_engineering_pathway/building_retrieval_agents_on_databricks) — Building Retrieval Agents on Databricks
     - `01-foundations_of_retrieval_agents/` — retrieval agents and context engineering
     - `02-document_parsing_and_chunking/` — parsing, cleaning, and chunking documents
     - `03-ai_search_for_retrieval/` — embeddings and AI Search
+    - `04-building_and_logging_retrieval_agents/` — building and logging retrieval agents with MLflow
+    - `05-agent_bricks/` — knowledge assistants with Agent Bricks
